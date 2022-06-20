@@ -45,6 +45,6 @@ At the last end of the js file, I created a for loop in order to pick and random
 
 
 ## Please see attached links to Repository and Deployed Page:
-
-
+https://github.com/jdanleano/Mod-03-Challlenge
+https://jdanleano.github.io/Mod-03-Challlenge/
 
